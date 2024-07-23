@@ -57,3 +57,22 @@
 .nav-list-item a:focus {
   background-color: #404BBF;
 }
+
+
+.timer {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.value{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  font-size:xx-large ;
+}
+
+.label {
+  font-size:larger;
+}
